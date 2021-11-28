@@ -1,3 +1,4 @@
 1. Enemy
 2. Adversary
 3. Opponent
+4. Opposite
